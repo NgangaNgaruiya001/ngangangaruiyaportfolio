@@ -1,5 +1,7 @@
 # Nganga Ngaruiya Portfolio
 
+***Click the Project Header link to view code***
+
 ## [Project 1](https://www.youtube.com/watch?v=oCIJqtOqkC8&list=PLjYn2orKlXao0Md4v8fdI1jtU_qiZbOSM)
 For this project, I build a very interactive dashboard using MS excel for my former employer Chicken Baristo. I extracted sales data from their POS and went to work. The data was in bad shape, I cleaned it using the PowerQuery which linked with the main data source thus cleaning any new data I brought in. From this clean data, I created numerous PivotTables that linked to the main cleaned sheet. This allowed me to make PivotCharts that were automatically updated once new data came in. I later proceeded to create a very interactive dashboard that was used to identify a problem in the sales of grilled chicken, one of the products on the menu, this led to an investigation which helped the directors to realize that the change in marination 2 months prior was killing their top seller product. Many more wonderful discoveries were made from this dashboard. You can see me teaching how I made it step by step on my [YouTube tutorial on how to create a completely interactive excel dashboard.](https://www.youtube.com/watch?v=oCIJqtOqkC8&list=PLjYn2orKlXao0Md4v8fdI1jtU_qiZbOSM). The technology used here were **Advanced MS Excel**.
 
