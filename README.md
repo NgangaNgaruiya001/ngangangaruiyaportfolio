@@ -31,4 +31,4 @@ I then proceded to making new relevant columns that help me calculate rates whic
 I used 2020 data since the 2019 data did not have the drugs data seperated countywise
 
 I am curently working on the YouTube video of me teaching this and it will be out **really soon**.
-
+You can view the code [here](https://github.com/NgangaNgaruiya001/crimevsbhangEDA)
