@@ -1,4 +1,4 @@
-# Nganga Ngaruiya Portfolio
+# Nganga Ngaruiya's Portfolio Projects
 
 ***Click the Project Header link to view code***
 
@@ -9,12 +9,14 @@ For this project, I build a very interactive dashboard using MS excel for my for
 ![](https://github.com/NgangaNgaruiya001/ngangangaruiyaportfolio/blob/main/images/Screenshot%20(19).png)
 
 ## [Project 2](https://github.com/NgangaNgaruiya001/Adding-PostgreSQL-as-your-database)
-The client of this project was the AGED department of Egerton University. They had done some research and had gained a lot of data on their students, including names, email addresses, and phone numbers. They thus decided to database this information and I was contracted to do so. Instead of just storing it in a generic database I decided to develop this web app where they could view them, search them on multiple parameters and add new students with ease. The login system also allowed the lecturers in the department to have their profiles which they can use individually from anywhere in the world. The user interface was extremely easy to use and was designed for anyone who is or is not computer savvy. You can see me teaching how I made it step by step on my [YouTube tutorial on how to create a Django website](https://www.youtube.com/watch?v=_RO3IjgcEBI&list=PLjYn2orKlXaqLw3U8RecBtz-FMckbwb1y). The technology used was **Python** and its web framework **Django**.   
+The client of this project was the AGED department of Egerton University. They had done some research and had gained a lot of data on their students, including names, email addresses, and phone numbers. They thus decided to database this information and I was contracted to do so. Instead of just storing it in a generic database I decided to develop this web app where they could view them, search them on multiple parameters and add new students with ease. The login system also allowed the lecturers in the department to have their profiles which they can use individually from anywhere in the world. The user interface was extremely easy to use and was designed for anyone who is or is not computer savvy. You can see me teaching how I made it step by step on my [YouTube tutorial on how to create a Django website](https://www.youtube.com/watch?v=_RO3IjgcEBI&list=PLjYn2orKlXaqLw3U8RecBtz-FMckbwb1y). The technology used was **Python** and its web framework **Django**.  
+
 
 ![](https://github.com/NgangaNgaruiya001/ngangangaruiyaportfolio/blob/main/images/Screenshot%20(20).png)
 
 ## [Project 3](https://github.com/NgangaNgaruiya001/sentiment_tool).
 In this project, my main purpose was to create a simple application that can be used to analyze the sentiments of tweets on a specific search topic. I used the Twitter API to connect to the Twitter app then I proceeded to use a pre-trained NLP called TextBlob to analyze this data and I presented the results using a seaborn to display the number of positive tweets, negative tweets, and neutral tweets on a bar graph. The technology used was **Python** and the **Pandas** and **Seaborn** packages. You can see me teaching how I made it step by step on my [YouTube tutorial on how to create a Twitter sentiment analysis tool](https://www.youtube.com/watch?v=Srqs-vbTSXg&t=229s&ab_channel=LearnwithNgangaNgaruiya).   
+
 
 ![](https://github.com/NgangaNgaruiya001/ngangangaruiyaportfolio/blob/main/images/Safaricom.png)
 
@@ -42,7 +44,9 @@ I used 2020 data since the 2019 data did not have the data on the drugs separate
 I am currently working on the YouTube video of me teaching this and it will be out **really soon**.    
 
 
-![](https://github.com/NgangaNgaruiya001/ngangangaruiyaportfolio/blob/main/images/Screenshot%20(21).png)      
+
+![](https://github.com/NgangaNgaruiya001/ngangangaruiyaportfolio/blob/main/images/Screenshot%20(21).png)    
+
 
 
 ![](https://github.com/NgangaNgaruiya001/ngangangaruiyaportfolio/blob/main/images/Screenshot%20(24).png)
